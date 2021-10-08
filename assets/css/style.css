@@ -80,7 +80,7 @@ background-color: aliceblue;
     position: relative;
     margin-top: 46px;
     padding-top: 50%;/*tỉ lệ gốc của bức ảnh*/
-    background: url('/assets/img/slider2.png') top center / cover no-repeat;
+    background: url('https://media.discordapp.net/attachments/836991860743340053/872508805559255050/Beauty_RGBA_Fin.png?width=1379&height=587') top center / cover no-repeat;
 }
 #slider .text-content{
 position: absolute;
