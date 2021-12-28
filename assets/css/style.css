@@ -32,7 +32,7 @@ html{
 #header{
     height: 46px;
     background-color: black;
-     position: fixed;/*thanh header này đứng yến */
+    position: fixed;/*thanh header này đứng yến */
     top: 0;
     left: 0;
     right: 0;
@@ -80,7 +80,7 @@ background-color: aliceblue;
     position: relative;
     margin-top: 46px;
     padding-top: 50%;/*tỉ lệ gốc của bức ảnh*/
-    background: url('/assets/img/slider2.png') top center / cover no-repeat;
+    background: url('/assets/img/logo2.png') top center / cover no-repeat;
 }
 #slider .text-content{
 position: absolute;
